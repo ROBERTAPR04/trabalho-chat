@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cardSala{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(166, 237, 237);
+    border-radius: 15px;
+    box-shadow: 2px 2px 4px 1px #7FC1E7;
+}
+
+#cardzinho{
+    width: 250px;
+    height: 50px;
+    background-color: #7FC1E7;
+    border-radius: 10px;
+}
+
+#cardzinho a{
+    text-decoration: none;
+    color: white;
+}
